@@ -4,9 +4,9 @@ The Official **ManicTime** chrome extension has some serious connection issues. 
 
 ## 🔌To setup:
 
-Uninstall the official extension, then:
+Go to  `chrome://extensions`, then:
 
-- Go to  `chrome://extensions`
+- Uninstall the official extension
 - Enable developer mode
-- Click import extension and use the files [here](https://github.com/MarouaneRag/ManicTimeChromeExtension/archive/master.zip)
+- Click import extension, and use the files [here](https://github.com/MarouaneRag/ManicTimeChromeExtension/archive/master.zip)
 - Allow incognito from settings (optional)
