@@ -1,6 +1,6 @@
 # ManicTime Chrome Extension
 
-The Official **ManicTime** chrome extension has some serious connection issues. I tried to fix them here.
+The Official **ManicTime** chrome extension (in its current version: 1.1.2) has some serious WebSocket issues that affect document (url) reporting. I tried to fix them here.
 
 ## 🔌To setup:
 
