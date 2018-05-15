@@ -33,7 +33,7 @@ function sendWindowUrl(a, b) {
 }
 var serverManager = function() {
         function a() {
-            b(), setInterval(b, 10*1000)
+            b(), setInterval(b, 25*1000)
         }
 
         function b() {
