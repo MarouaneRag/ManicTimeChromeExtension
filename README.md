@@ -1,6 +1,6 @@
-# ManicTime Chrome Extension (improved liability)
+# ManicTime Chrome Extension
 
-The Official ManicTime chrome extension has some serious connection issues. I tried to fix them here.
+The Official **ManicTime** chrome extension has some serious connection issues. I tried to fix them here.
 
 ## 🔌To setup:
 
